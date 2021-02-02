@@ -1,0 +1,22 @@
+[32minfo[39m: User Object received from request  {"username":"test-dev1","password":"1234"}
+[32minfo[39m: User Object received from request  {"username":"test-dev2","password":"1234"}
+[32minfo[39m: User Object received from request  {"username":"test-dev3","password":"1234"}
+[32minfo[39m: Email Search in DB during registration
+[32minfo[39m: User Password hash generated 
+[32minfo[39m: DB Res after saving user details {"dataValues":{"sessionId":null,"logout":null,"uid":4,"username":"test-dev3","password":"$2a$08$WGGQssAL4b993KgQulbcJ.oPDpxD.JBfL6Cxa2t7zhr41EfTWi34i"},"_previousDataValues":{"username":"test-dev3","password":"$2a$08$WGGQssAL4b993KgQulbcJ.oPDpxD.JBfL6Cxa2t7zhr41EfTWi34i","uid":4,"sessionId":null,"logout":null},"_changed":{},"_options":{"isNewRecord":true,"_schema":null,"_schemaDelimiter":""},"isNewRecord":false}
+[32minfo[39m: User Object received from request  {"username":"test-dev4","password":"1234"}
+[32minfo[39m: Email Search in DB during registration
+[32minfo[39m: User Password hash generated 
+[32minfo[39m: DB Res after saving user details {"sessionId":null,"logout":null,"uid":5,"username":"test-dev4","password":"$2a$08$F8Tl6gjtYSf1G3KblqF2B.Rrd5e92kVyWwsuVv2AX235Gk1gQgus2"}
+2021-01-30T17:27:57.741Z : [32minfo[39m : 	User Object received from request 
+2021-01-30T17:27:57.766Z : [32minfo[39m : 	Email Search in DB during registration
+2021-01-30T17:27:57.838Z : [32minfo[39m : 	User Password hash generated 
+2021-01-30T17:27:57.861Z : [32minfo[39m : 	DB Res after saving user details
+[32minfo[39m: 	User Object received from request  {"username":"testdev2","password":"1234","timestamp":"2021-01-30T17:30:38.199Z"}
+[32minfo[39m: 	Email Search in DB during registration {"timestamp":"2021-01-30T17:30:38.214Z"}
+[32minfo[39m: 	User Password hash generated  {"timestamp":"2021-01-30T17:30:38.275Z"}
+[32minfo[39m: 	DB Res after saving user details {"sessionId":null,"logout":null,"uid":7,"username":"testdev2","password":"$2a$08$cuk8JUxBhncO9TBlOdYnMOlu4LWvnIoXqYJnsgRU7/Vlpba9BJ4pS","timestamp":"2021-01-30T17:30:38.288Z"}
+[32minfo[39m: 	User Object received from request  {"username":"testdev3","password":"1234","timestamp":"2021-01-30T17:31:59.067Z"}
+[32minfo[39m: 	Email Search in DB during registration {"timestamp":"2021-01-30T17:31:59.092Z"}
+[32minfo[39m: 	User Password hash generated  {"timestamp":"2021-01-30T17:31:59.170Z"}
+[32minfo[39m: 	DB Res after saving user details {"sessionId":null,"logout":null,"uid":8,"username":"testdev3","password":"$2a$08$ZR0rFqzCTw/CLWVfYWGeXuzbVWonK4HQtSyITGEJMm5yusiVDWemK","timestamp":"2021-01-30T17:31:59.184Z"}
